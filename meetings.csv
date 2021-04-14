@@ -1,0 +1,3 @@
+Datum/Wochentag,Start,Ende,Veranstaltung,Veranstaltungsart,Veranstalter*in,Link,Konferenzsystemn,Meeting-ID,Meeting-Passcode,Einrichtung,optional,Kommentar
+Montag,12:15,13:45,Veranstaltung A,Vorlesung,Irgendjemand,https://elearning.uni-bremen.de/plugins.php/meetingplugin/api/rooms/join/<hash>/<id>,BigBlueButton,,,Universität Bremen,nein,
+Dienstag,10:15,11:45,Veranstaltung B,Seminar,Jemand Anderes,https://uni-bremen.zoom.us/j/<id>?pwd=<hash>,Zoom,<id>,<passcode>,Universität Bremen,nein,manchmal asynchron
